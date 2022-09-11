@@ -11,10 +11,10 @@
 O site é composto por cinco seções:
 
 - **Início:** Nele temos uma breve apresentação;
-- **Sobre:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Parceiros:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+- **Sobre:** Nessa seção tenho uma descrição dizendo sobre o produto;
+- **Menu:** Exibe Informações sobre os tipos de cafes disponiveis no site;
+- **Produtos:** Apresenta alguns produtos desenvolvidos e criados po uma empresa de graos de café muito famoso;
+- **Parceiros:** Mostra os parceiros da empresa e onde se localizam e os site de seus comércios online;
 - **Contato:** Nele exibe minhas redes sociais e um link para enviar um email para contato via gmail.
 
 ---
