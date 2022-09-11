@@ -2,7 +2,7 @@
   💻<br>Projeto - Loja Coffee Break
 </h1>
 
-![Resultado final do projeto](image/fotosite.png)
+![Resultado final do projeto](image/Projeto1.png)
 
 <h4 align="center"><a href="https://portfoliopsyker.netlify.app/">Clique para visitar o projeto</a></h4>
 
