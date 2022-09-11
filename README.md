@@ -15,7 +15,7 @@ O site é composto por cinco seções:
 - **Menu:** Exibe Informações sobre os tipos de cafes disponiveis no site;
 - **Produtos:** Apresenta alguns produtos desenvolvidos e criados po uma empresa de graos de café muito famoso;
 - **Parceiros:** Mostra os parceiros da empresa e onde se localizam e os site de seus comércios online;
-- **Contato:** Nele exibe minhas redes sociais e um link para enviar um email para contato via gmail.
+- **Review:** Nele exibe os comentários dos clientes satisfeitos com estrelas;
 
 ---
 
