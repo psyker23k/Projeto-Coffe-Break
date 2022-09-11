@@ -180,7 +180,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(https://github.com/psyker23k/Projeto-Coffe-Break/blob/main/images/about-img.jpeg) no-repeat ;
+    background:url(images/home-img.jpeg) no-repeat ;
     background-size: cover;
     background-position: center;
 }
